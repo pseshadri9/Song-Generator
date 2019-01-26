@@ -6,7 +6,7 @@ to install all needed libraries, type:
 pip install markovify, lyricsgenius
 ```
 
-to make a song on a certain artist, type
+to make a song on a certain artist, type: (artist name in all lower caps)
 ```
 python markovsong.py [artist name]
 ```
