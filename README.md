@@ -10,4 +10,3 @@ to make a song on a certain artist, type: (artist name in all lower caps)
 ```
 python markovsong.py [artist name]
 ```
-Default artist is XXXtentacion 
